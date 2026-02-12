@@ -1,0 +1,1 @@
+The project is not serious. It's my first project on C++.
